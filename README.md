@@ -48,7 +48,7 @@ https://github.com/ha-neko/jannahku-release/releases/latest/download/jannahku-la
 
 | Version | Date | Notes |
 |---------|------|-------|
-| [`v1.0`](https://github.com/ha-neko/jannahku-release/releases/tag/v1.0) | — | First public build |
+| [`v1.0`](https://github.com/ha-neko/jannahku-release/releases/tag/v1.0) | 2026-10-13 | First public build |
 
 Every release is built automatically from source by GitHub Actions — unsigned intermediate artifacts never leave CI, and each build shares the same release signature, so updates install cleanly over previous versions.
 
